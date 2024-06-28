@@ -1,0 +1,10 @@
+.wizard-step {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.wizard-step:not(:last-child) {
+    margin-bottom: 20px;
+}
